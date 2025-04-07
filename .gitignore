@@ -51,3 +51,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 /Java/Modelo_Productor_Consumidor/target/
+/Gimnasio_Semaforos/target/
+/Java/Gimnasio_Semaforos/target/
